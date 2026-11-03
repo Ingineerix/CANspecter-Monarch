@@ -3,3 +3,5 @@
 This is the repository for the CANspecter Dongle for Monarch MK-V tractors.
 <br><br>
 Click https://github.com/Ingineerix/CANspecter-Monarch/issues to file a bug report or feature request.
+<br><br>
+If you have questions or need support, open a new discussion here: https://github.com/Ingineerix/CANspecter-Monarch/discussions
